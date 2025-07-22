@@ -6,7 +6,10 @@
                     <div class="row justify-content-center justify-content-lg-between">
                         <div class="topbar-item topbar-left">
                             <ul class="topbar-list">
- 
+                                 <li>
+                                    <i class="icofont-headphone"></i>
+                                    <a href="/tel:00321-654-98">+00 321 654 98</a>
+                                </li>
                                 <li>
                                     <i class="icofont-ui-message"></i>
                                     <a href="/mailto:info@deepfrog.ai">info@deepfrog.ai</a>
